@@ -1,7 +1,7 @@
 {
   "name": "react-native-screen-capture-secure",
   "title": "React Native Screen Capture Secure",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "android screen capture disable/ios alertview",
   "main": "index.js",
   "scripts": {

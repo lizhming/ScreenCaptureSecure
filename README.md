@@ -12,6 +12,6 @@
 ```javascript
 import ScreenCaptureSecure from 'react-native-screen-capture-secure';
 
-// TODO: What to do with the module?
-ScreenCaptureSecure;
+ScreenCaptureSecure.enableSecure();
+ScreenCaptureSecure.disableSecure();
 ```
